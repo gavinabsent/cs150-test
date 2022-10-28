@@ -7,5 +7,6 @@ int main()
 {
     cout << "Hello, world!" << endl;
     cout << "This is another edit." << endl;
+    cout << "Adding this line creates a conflict" << endl;
     return 0;
 }
